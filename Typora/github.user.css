@@ -1,0 +1,18 @@
+/* 引用 */
+blockquote {
+    border-left: 4px solid #1AA88B;
+    color: black;
+}
+
+/* 加粗 */
+strong{
+    color: mediumblue;
+}
+
+/* 代码 */
+.md-fences,
+code,
+tt {
+    border: 0px solid #ddd;
+    font-size: 1em;
+}
