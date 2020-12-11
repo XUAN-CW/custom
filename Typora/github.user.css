@@ -21,3 +21,7 @@ code {
     color: black;
 }
 
+/* 宽度 */
+#write {
+    max-width: 1000px;
+}
